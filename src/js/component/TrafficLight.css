@@ -1,0 +1,53 @@
+
+#top{
+    background-color:black;
+    width: 0.7rem;
+    height: 8rem;
+    margin-left: 5.5rem;
+}
+
+#traffic{
+    background-color: black;
+    width: 8rem;
+    height: 23rem;
+    margin-left: 2rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.red{
+    width: 100px;
+    height: 100px;
+    margin:auto;
+    border-radius: 50%;
+    padding: 4px;
+    cursor:pointer;
+    background-color:red;  
+    margin-top: 0.5rem; 
+}
+
+.yellow{
+    width: 100px;
+    height: 100px;
+    margin:auto;
+    border-radius: 50%;
+    padding: 4px;
+    cursor:pointer;  
+    background-color: yellow;
+    margin-top: 0.5rem;  
+}
+.green{
+    width: 100px;
+    height: 100px;
+    margin:auto;
+    border-radius: 50%;
+    padding: 4px;
+    cursor:pointer;   
+    background-color:green;
+    margin-top: 0.5rem; 
+    
+}
+
+.selected{
+    box-shadow: #f8ffcc 0px 0px 50px 20px;
+}
